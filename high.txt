@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Very high
 checked
+=======
+the high volume is limited
+ok, fixing it
+>>>>>>> development
